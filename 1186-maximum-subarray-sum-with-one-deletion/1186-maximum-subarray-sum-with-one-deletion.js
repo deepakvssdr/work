@@ -10,7 +10,7 @@ var maximumSum = function(arr) {
         //let prevnodelete=nodelete;
         onedelete=Math.max((onedelete+arr[i]),nodelete);
         nodelete=Math.max((nodelete+arr[i]),arr[i]);
-        res=Math.max(res,Math.max(nodelete,onedelete));
+        res=Math.max(res,nodelete,onedelete);
     }
     return res;    
 };
