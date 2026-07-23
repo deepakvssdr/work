@@ -10,4 +10,5 @@ var maxAbsoluteSum = function(nums) {
         res=Math.max(res,Math.abs(best2),best1);
     }
     return Math.abs(res);
+
 };
