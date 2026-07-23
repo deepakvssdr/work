@@ -8,8 +8,8 @@ var maximumSum = function(arr) {
     let res=arr[0];
     for(let i=1;i<arr.length;i++){
         //let prevnodelete=nodelete;
-        onedelete=Math.max((onedelete+arr[i]),nodelete);
-        nodelete=Math.max((nodelete+arr[i]),arr[i]);
+        onedelete=Math.max(onedelete+arr[i],nodelete);
+        nodelete=Math.max(nodelete+arr[i],arr[i]);
         res=Math.max(res,nodelete,onedelete);
     }
     return res;    
