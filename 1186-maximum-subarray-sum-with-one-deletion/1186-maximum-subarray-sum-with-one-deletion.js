@@ -7,9 +7,9 @@ var maximumSum = function(arr) {
     let onedelete=arr[0];
     let res=arr[0];
     for(let i=1;i<arr.length;i++){
-        let prevnodelete=nodelete;
+        //let prevnodelete=nodelete;
+        onedelete=Math.max((onedelete+arr[i]),nodelete);
         nodelete=Math.max((nodelete+arr[i]),arr[i]);
-        onedelete=Math.max((onedelete+arr[i]),prevnodelete);
         res=Math.max(res,Math.max(nodelete,onedelete));
     }
     return res;    
