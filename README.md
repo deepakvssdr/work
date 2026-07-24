@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepakvssdr/work/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/deepakvssdr/work/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/deepakvssdr/work/tree/master/0209-minimum-size-subarray-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepakvssdr/work/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepakvssdr/work/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
@@ -48,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/deepakvssdr/work/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deepakvssdr/work/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deepakvssdr/work/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deepakvssdr/work/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
