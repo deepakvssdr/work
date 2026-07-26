@@ -14,7 +14,8 @@ var totalFruit = function(fruits) {
             }
             low++;
         }
-        len=Math.max(len,high-low+1);
+        if(map.size<=2){
+        len=Math.max(len,high-low+1);}
     }
     return len==-Infinity?1:len;
 };
