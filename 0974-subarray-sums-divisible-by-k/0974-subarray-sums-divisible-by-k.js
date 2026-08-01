@@ -8,7 +8,7 @@ var subarraysDivByK = function(nums, k) {
     let map=new Map([[0,1]]);
     for(let i=0;i<nums.length;i++){
         sum+=nums[i];
-        rem=sum%k
+        rem=sum%k;
         if(rem<0){
             rem+=k;
         }
