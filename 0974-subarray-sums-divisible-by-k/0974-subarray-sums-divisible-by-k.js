@@ -12,8 +12,8 @@ var subarraysDivByK = function(nums, k) {
         if(rem<0){
             rem+=k;
         }
-        freq=map.get(rem)||0;
-        res+=freq;
+        //freq=map.get(rem)||0;
+        res+=(map.get(rem)||0);
         map.set(rem,(map.get(rem)||0)+1);
     }
     return res;
