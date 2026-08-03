@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepakvssdr/work/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/deepakvssdr/work/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/deepakvssdr/work/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepakvssdr/work/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/deepakvssdr/work/tree/master/0287-find-the-duplicate-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/deepakvssdr/work/tree/master/0056-merge-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/deepakvssdr/work/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/deepakvssdr/work/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/deepakvssdr/work/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
