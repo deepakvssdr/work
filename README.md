@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/deepakvssdr/work/tree/master/0202-happy-number) |
+| [0877-stone-game](https://github.com/deepakvssdr/work/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/deepakvssdr/work/tree/master/0973-k-closest-points-to-origin) |
 ## Array
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/deepakvssdr/work/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepakvssdr/work/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/deepakvssdr/work/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/deepakvssdr/work/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/deepakvssdr/work/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepakvssdr/work/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/deepakvssdr/work/tree/master/0973-k-closest-points-to-origin) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepakvssdr/work/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/deepakvssdr/work/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/deepakvssdr/work/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepakvssdr/work/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepakvssdr/work/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepakvssdr/work/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -115,4 +118,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/deepakvssdr/work/tree/master/0973-k-closest-points-to-origin) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/deepakvssdr/work/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/deepakvssdr/work/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/deepakvssdr/work/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
