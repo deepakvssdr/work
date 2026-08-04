@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/deepakvssdr/work/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/deepakvssdr/work/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/deepakvssdr/work/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepakvssdr/work/tree/master/0287-find-the-duplicate-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/deepakvssdr/work/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/deepakvssdr/work/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepakvssdr/work/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/deepakvssdr/work/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/deepakvssdr/work/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepakvssdr/work/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/deepakvssdr/work/tree/master/0287-find-the-duplicate-number) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/deepakvssdr/work/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/deepakvssdr/work/tree/master/0088-merge-sorted-array) |
 | [0973-k-closest-points-to-origin](https://github.com/deepakvssdr/work/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
