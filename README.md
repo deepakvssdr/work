@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/deepakvssdr/work/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/deepakvssdr/work/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepakvssdr/work/tree/master/0287-find-the-duplicate-number) |
+| [0986-interval-list-intersections](https://github.com/deepakvssdr/work/tree/master/0986-interval-list-intersections) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/deepakvssdr/work/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/deepakvssdr/work/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepakvssdr/work/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/deepakvssdr/work/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepakvssdr/work/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepakvssdr/work/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/deepakvssdr/work/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/deepakvssdr/work/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
