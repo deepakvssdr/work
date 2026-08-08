@@ -3,10 +3,9 @@
  * @return {number[]}
  */
 var getConcatenation = function(nums) {
-    let ans=[];
-    let n=nums.length;
-   for(let i=0;i<2*n;i++){
-    ans.push(nums[i%n]);
+   let n=nums.length;
+   for(let i=0;i<n;i++){
+    nums.push(nums[i]);
    } 
-   return ans;
+   return nums;
 };
