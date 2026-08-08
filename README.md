@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/deepakvssdr/work/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepakvssdr/work/tree/master/0287-find-the-duplicate-number) |
 | [0986-interval-list-intersections](https://github.com/deepakvssdr/work/tree/master/0986-interval-list-intersections) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/deepakvssdr/work/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/deepakvssdr/work/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepakvssdr/work/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepakvssdr/work/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/deepakvssdr/work/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepakvssdr/work/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/deepakvssdr/work/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
