@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepakvssdr/work/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/deepakvssdr/work/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepakvssdr/work/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1732-find-the-highest-altitude](https://github.com/deepakvssdr/work/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepakvssdr/work/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepakvssdr/work/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/deepakvssdr/work/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/deepakvssdr/work/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepakvssdr/work/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1732-find-the-highest-altitude](https://github.com/deepakvssdr/work/tree/master/1732-find-the-highest-altitude) |
 ## Queue
 |  |
 | ------- |
