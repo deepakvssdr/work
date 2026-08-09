@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/deepakvssdr/work/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepakvssdr/work/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/deepakvssdr/work/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/deepakvssdr/work/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepakvssdr/work/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/deepakvssdr/work/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepakvssdr/work/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/deepakvssdr/work/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/deepakvssdr/work/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
 | ------- |
@@ -177,5 +179,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/deepakvssdr/work/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/deepakvssdr/work/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepakvssdr/work/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
