@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/deepakvssdr/work/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/deepakvssdr/work/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/deepakvssdr/work/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/deepakvssdr/work/tree/master/0973-k-closest-points-to-origin) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/deepakvssdr/work/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deepakvssdr/work/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepakvssdr/work/tree/master/2149-rearrange-array-elements-by-sign) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/deepakvssdr/work/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
