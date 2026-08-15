@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/deepakvssdr/work/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/deepakvssdr/work/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/deepakvssdr/work/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/deepakvssdr/work/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/deepakvssdr/work/tree/master/0973-k-closest-points-to-origin) |
 ## Array
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/deepakvssdr/work/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/deepakvssdr/work/tree/master/0287-find-the-duplicate-number) |
 ## Geometry
 |  |
@@ -191,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/deepakvssdr/work/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/deepakvssdr/work/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
