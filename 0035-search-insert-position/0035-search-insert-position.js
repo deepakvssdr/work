@@ -4,9 +4,20 @@
  * @return {number}
  */
 var searchInsert = function(nums, target) {
-    let i=0;
-    while(nums[i]<target){
-        i++;
+    let low=0;
+    let high=nums.length-1;
+    let mid;
+    while(low<=high){
+        mid=Math.floor((low+high)/2);
+        if(nums[mid]==target){
+            return mid;
+        }
+        if(target<nums[mid]){
+            high=mid-1;
+        }
+        else{
+            low=mid+1;
+        }
     }
-    return i;
+    return low;
 };
