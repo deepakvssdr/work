@@ -200,4 +200,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/deepakvssdr/work/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/deepakvssdr/work/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/deepakvssdr/work/tree/master/0183-customers-who-never-order) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/deepakvssdr/work/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
