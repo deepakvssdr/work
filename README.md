@@ -205,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/deepakvssdr/work/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/deepakvssdr/work/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/deepakvssdr/work/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/deepakvssdr/work/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
